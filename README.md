@@ -1,7 +1,7 @@
 ## Inshaf Ahamed
 **Computer Engineering Student @ PAF-IAST, Pakistan**
 
-🔬 Research Intern — SPCAI Robotics Lab (on-device voice assistant, TinyML)  
+🔬 Machine Learning Intern — SPCAI Robotics Lab (on-device voice assistant, TinyML)  
 🛠️ Focus: FPGA/RTL Design · Embedded Systems · Embedded ML  
 📌 Tools: Verilog · Vivado · ESP32 · Arduino · MATLAB  
 
